@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlenPy
+- 👋 Hi, I’m @BlenDev
 - 👀 I’m interested in Blender and Game Development
 - 🌱 I’m currently learning Unreal Engine
 
